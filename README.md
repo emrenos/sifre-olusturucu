@@ -1,2 +1,2 @@
-# sifre-olusturucu
+# Şifre Oluşturucu
 Rastgele karakterlerden güçlü şifreler oluşturun.
